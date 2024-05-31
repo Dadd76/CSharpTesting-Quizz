@@ -1,0 +1,14 @@
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\bin\Debug\net8.0\quiz.net-intermediate.exe
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\bin\Debug\net8.0\quiz.net-intermediate.deps.json
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\bin\Debug\net8.0\quiz.net-intermediate.runtimeconfig.json
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\bin\Debug\net8.0\quiz.net-intermediate.dll
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\bin\Debug\net8.0\quiz.net-intermediate.pdb
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.AssemblyInfoInputs.cache
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.AssemblyInfo.cs
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.csproj.CoreCompileInputs.cache
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.dll
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\refint\quiz.net-intermediate.dll
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.pdb
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.genruntimeconfig.cache
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\ref\quiz.net-intermediate.dll

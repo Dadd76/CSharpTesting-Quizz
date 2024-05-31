@@ -1,0 +1,4 @@
+dotnet new console --name quiz.net-intermediate
+dotnet run 
+
+dotnet new class -n generic.cs
