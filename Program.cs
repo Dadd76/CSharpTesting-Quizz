@@ -67,3 +67,17 @@ namespace quizz
     B) Ue exception sera passée aux niveaux plus élevés sans aucune modification
     C) Une fois capturée, une exception ne peux plus être lancé
     */
+
+
+    /* peut-on annuler une opération Asyn en c# 
+    A) Non, vous devez attendre que l'opération se termine
+    B) Oui, vous pouvez utiliser Cancellation Token,
+    C) Oui, vous pouvez utiliser Cancellation TokenSource,
+    D) Oui, vous pouvez utiliser Cancellation TokenSource et Cancellation Token,
+    */
+    
+    /* volatile
+    A) Le mot clef volatile indique qu'un champ peut être modifié par plusieurs threads
+    B) q'un champ peut être modifié par le thread principal
+    C) Le mot clef volatile indique qu'un champ ne peut être pas modifié par plusieurs threads
+    */
