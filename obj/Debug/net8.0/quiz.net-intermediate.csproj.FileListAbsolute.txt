@@ -12,3 +12,4 @@ C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\refint\quiz.ne
 C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.pdb
 C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.genruntimeconfig.cache
 C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\ref\quiz.net-intermediate.dll
+C:\Users\dadd\Source\Repos\quiz.net-intermediate\obj\Debug\net8.0\quiz.net-intermediate.sourcelink.json

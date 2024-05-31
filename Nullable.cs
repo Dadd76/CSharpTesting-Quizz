@@ -2,7 +2,7 @@
 
 public class NullableTest : IQuizz
 {
-    /* 
+    /* Quelle sera la sortie ? 
     A) New client Dillan with balance 99.9
     B) New client Dillan with balance 0
     C) New client Dillan with balance
@@ -16,8 +16,6 @@ public class NullableTest : IQuizz
        Console.WriteLine($"New client {dillan.Name} with balance {dillanBalance}");
     }
 }
-
-
 
 public class Client
 {

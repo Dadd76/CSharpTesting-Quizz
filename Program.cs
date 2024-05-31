@@ -8,8 +8,6 @@ namespace quizz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-
             var quizz1 = new QuizzGeneric();
             quizz1.runQuizz();
 
@@ -21,6 +19,9 @@ namespace quizz
 
             var quizz4 = new NullableTest();
             quizz4.runQuizz();
+
+            var quizz5 = new DelegateMulticast();
+            quizz5.runQuizz();
         }
 
     }
@@ -42,3 +43,27 @@ namespace quizz
     pendant la garbage collection
     D) en .NET Framework 4.6 le garbage collector a un rôle de gestionnaire de la mémoire non managé
     */ 
+
+    /* Quel est l'intérêt d'utiliser un "AppDomain" en .Net
+    A) Pour scoper et limiter a l'aAppDomain els problème pouvant apparaitre pendant l'éxécution
+    B) Pour appliquer la configuration de sécurité granulaire limité a l'AppDomain
+    C) Pour décrire le domain bussiness dans le fichier PropertyInfo.cs
+    D) Pour limiter à une seule application le nombre d'applications éxécutées par un thread
+    E) Les réponses A et B 
+    F) Les réponses B et D
+    */
+
+    /* Etant donnée le bloc de code suivant. Quel sera le résulat de "throw ex"
+    try
+    {
+        System.IO.FILE.Open("{LOCATION," System.IO.FileMode.Append")
+    }
+    catch (System.IO.IOException ex)
+    {
+        throw ex;
+    }
+    A) Il remplacera la trace de pile initiale de l'exception par els informations de trace de pile 
+    du point "re throw"
+    B) Ue exception sera passée aux niveaux plus élevés sans aucune modification
+    C) Une fois capturée, une exception ne peux plus être lancé
+    */

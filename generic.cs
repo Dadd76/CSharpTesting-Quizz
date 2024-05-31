@@ -2,7 +2,7 @@
 
 public class QuizzGeneric : IQuizz
 {
-    /* 
+    /* Quel sera la sortie ? 
     A) MSIL.person
     B) MSIL.generic.person 
     C) Une erreur de compilation car la class person n'implémente pas de constructeur par défaut

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quiz.net-intermediate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf8013166eecc0e9aabeaeef48bae8d7a912dd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("quiz.net-intermediate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quiz.net-intermediate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
