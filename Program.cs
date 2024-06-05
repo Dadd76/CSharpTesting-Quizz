@@ -22,6 +22,10 @@ namespace quizz
 
             var quizz5 = new DelegateMulticast();
             quizz5.runQuizz();
+
+            var quizz6 = new Interpolation();
+            quizz6.runQuizz();
+            
         }
 
     }
@@ -81,3 +85,16 @@ namespace quizz
     B) q'un champ peut être modifié par le thread principal
     C) Le mot clef volatile indique qu'un champ ne peut être pas modifié par plusieurs threads
     */
+
+     /* Quel est l'exemple d'interpolation de chaîne de caractère ci-dessous qui ne compilera pas ?   
+    A)  Console.WriteLine($"{Name} says hit to {other.name} (born {other.DateOfBirth.Year < 1975 ? "oldies : "youngster"})");
+    B)  Console.WriteLine($"{Name} says hit to {other.name} (born {((Func<int> (() => {int x=10 ; return x; } ))()})");
+    C)  Console.WriteLine(FormattableString.Invariant($"{Name} says hit to {other.name} (born {DateOfBirth})");
+    D) Toutes ces réponses
+    */
+
+     /* Quel interface devrait être implémentée par une classe qui pourrait être utilisée à l'intérieur du bloc "using(..){}"
+    A) IDisposable
+    B) IClosable
+    C) Idestroyable
+    D) Toutes ces réponses
