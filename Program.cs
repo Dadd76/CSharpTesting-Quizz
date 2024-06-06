@@ -11,20 +11,23 @@ namespace quizz
             var quizz1 = new QuizzGeneric();
             quizz1.runQuizz();
 
-            var quizz2 = new Stack();
+            var quizz2  = new Constructeur();
             quizz2.runQuizz();
 
-            var quizz3 = new AddAditionalText();
+            var quizz3 = new Stack();
             quizz3.runQuizz();
 
-            var quizz4 = new NullableTest();
+            var quizz4 = new AddAditionalText();
             quizz4.runQuizz();
 
-            var quizz5 = new DelegateMulticast();
+            var quizz5 = new NullableTest();
             quizz5.runQuizz();
 
-            var quizz6 = new Interpolation();
+            var quizz6 = new DelegateMulticast();
             quizz6.runQuizz();
+
+            var quizz7 = new Interpolation();
+            quizz7.runQuizz();
             
         }
 
@@ -98,3 +101,4 @@ namespace quizz
     B) IClosable
     C) Idestroyable
     D) Toutes ces réponses
+    */

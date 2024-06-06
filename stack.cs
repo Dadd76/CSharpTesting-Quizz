@@ -2,7 +2,7 @@
 
 public class Stack : IQuizz
 {
-    /* 
+  /* 
   A) {stack.Pop()},{stack.Peek()},{stack.Pop()}
   B) 4,3,3
   C) 1,2,2
