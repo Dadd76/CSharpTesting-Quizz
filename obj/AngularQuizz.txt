@@ -251,3 +251,11 @@ button est l'élément HTML auquel vous souhaitez faire référence.
 ***calculer la moyenne d'âge des personnes dans une table nommée personne en SQL ? 
 
 SELECT AVG(DATEDIFF(CURRENT_DATE, date_naissance)) AS moyenne_age FROM personne;
+
+***Selectionner la personne la plus agée ? 
+
+SELECT *, DATEDIFF(CURRENT_DATE, date_naissance) AS age
+FROM personne
+ORDER BY age DESC
+LIMIT 1;
+
