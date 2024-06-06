@@ -248,5 +248,6 @@ D)  <button *myButton='this'>
 button est l'élément HTML auquel vous souhaitez faire référence.
  #myButton est la déclaration de la variable de référence de modèle.
 
+***calculer la moyenne d'âge des personnes dans une table nommée personne en SQL ? 
 
-
+SELECT AVG(DATEDIFF(CURRENT_DATE, date_naissance)) AS moyenne_age FROM personne;
